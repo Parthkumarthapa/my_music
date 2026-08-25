@@ -367,6 +367,20 @@ const arcadeSongs = [
 
         youtube:
             "https://www.youtube.com/watch?v=3RUXw8NQIsw"
+    },
+    {
+        id: "meherban",
+        title: "Meherban",
+        artist: "Jani",
+
+        x: 270,
+        y: 30,
+
+        width: 160,
+        height: 210,
+
+        youtube:
+            "https://www.youtube.com/watch?v=uFUDGgJKuGI"
     }
 
 
